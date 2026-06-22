@@ -69,5 +69,5 @@ This document serves as a defensive reference, focusing on how network data phys
 ## 📄 Access the Visual Guide
 
 <div align="center">
-  <b><a href="./TCP_IP_SOC_Defensive_Guide-v2.pdf">📥 Click Here to Download / View the Full PDF Guide</a></b>
+  <b><a href="./TCPIP_Defensive_Architecture.pdf">📥 Click Here to Download / View the Full PDF Guide</a></b>
 </div>
